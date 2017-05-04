@@ -18,7 +18,7 @@
           "file": "service.thrift",
           "target": "~/"
         }
-      ],
+      ]
     },
     "finish": {
       "text": "finish.md"

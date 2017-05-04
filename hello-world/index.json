@@ -12,6 +12,14 @@
       "text": "intro.md",
       "credits": ""
     },
+    "assets": {
+      "client": [
+        {
+          "file": "service.thrift",
+          "target": "~/"
+        }
+      ],
+    },
     "finish": {
       "text": "finish.md"
     }

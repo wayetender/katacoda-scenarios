@@ -6,13 +6,13 @@
   "details": {
     "steps": [{
       "title": "Step 1 - Overview of project",
-      "text": "step1.md",
+      "text": "step1.md"
     }, {
       "title": "Step 2 - Start Calculator Services",
-      "text": "step2.md",
+      "text": "step2.md"
     }, {
       "title": "Step 1 - Running the client",
-      "text": "step3.md",
+      "text": "step3.md"
     }],
     "intro": {
       "text": "intro.md",

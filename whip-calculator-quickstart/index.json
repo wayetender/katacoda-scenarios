@@ -1,0 +1,34 @@
+{
+  "title": "Whip Quickstart",
+  "description": "A quick introduction to Whip using a simple Thrift microservices app
+
+  (More details to come.)",
+  "difficulty": "beginner",
+  "time": "10 minutes",
+  "details": {
+    "steps": [{
+      "title": "Step 1 - Overview of project",
+      "text": "step1.md",
+    }, {
+      "title": "Step 2 - Start Calculator Services",
+      "text": "step2.md",
+    }, {
+      "title": "Step 1 - Running the client",
+      "text": "step3.md",
+    }],
+    "intro": {
+      "text": "intro.md",
+      "courseData": "env-init.sh"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal-editor",
+    "uimessage1": "\u001b[32mYour interactive Bash terminal.\r\nSafely try Whip in a sandbox.`\u001b[m\r\n"
+  },
+  "backend": {
+    "imageid": "docker"
+  }
+}

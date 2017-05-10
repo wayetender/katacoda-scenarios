@@ -1,8 +1,6 @@
 {
   "title": "Whip Quickstart",
-  "description": "A quick introduction to Whip using a simple Thrift microservices app
-
-  (More details to come.)",
+  "description": "A quick introduction to Whip using a simple Thrift microservices app",
   "difficulty": "beginner",
   "time": "10 minutes",
   "details": {

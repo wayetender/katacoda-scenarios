@@ -34,9 +34,13 @@ docker-compose run client``{{execute}}
 
 Now let's add 2 and 2:
 
-``add 2 2``
+``add 2 2``{{execute}}
 
 Success! I mean, failure! We have a contract failure, that is. We have successfully captured a first-order contract failure (i.e., that `2 + 2` is not equal to `3`).
+
+Let's quit out of the program now.
+
+``quit``{{execute}}
 
 Note that the service was `vouched for by unknown`. That is, the imprecise blame label was used. That is because the client was using unenhanced communication due to partial deployment. In the next step, we will switch the client adapter to use enhanced communication with the other services.
 

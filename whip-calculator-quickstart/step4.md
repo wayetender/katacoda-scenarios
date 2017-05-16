@@ -20,6 +20,10 @@ With this we can bring down the application, rebuild the containers (note: not t
 docker-compose build
 docker-compose run client``{{execute}}
 
+And now when we add 2 + 2...
+
+``add 2 2``{{execute}}
+
 We can see now in this case the adder service was vouched for by the adder adapter (the blame label name "adder" comes from the `whip/adapter_adder.yaml` configuration file).
 
 In the next step, we will discuss _indexed contracts_.

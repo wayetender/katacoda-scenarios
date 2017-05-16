@@ -23,7 +23,8 @@ Now let's try adding 2 and 2:
 
 Now note that client vouched for the service, as `a` was not equal to `1`.
 
-Finally, let's fix the adder service error.
+Finally, let's quit out and fix the adder service error.
 
+``quit``{{execute}}
 
 

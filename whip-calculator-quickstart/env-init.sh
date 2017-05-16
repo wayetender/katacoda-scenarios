@@ -1,2 +1,4 @@
 git clone https://github.com/wayetender/whip-calculator-example.git .
-docker pull wayetender/whip
+rm -rf .git
+docker pull wayetender/whip:v0.1.0
+

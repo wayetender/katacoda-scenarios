@@ -2,17 +2,26 @@
   "title": "Whip Quickstart",
   "description": "A quick introduction to Whip using a simple Thrift microservices app",
   "difficulty": "beginner",
-  "time": "10 minutes",
+  "time": "15 minutes",
   "details": {
     "steps": [{
       "title": "Step 1 - Overview of project",
       "text": "step1.md"
     }, {
-      "title": "Step 2 - Start Calculator Services",
+      "title": "Step 2 - Running the Client",
       "text": "step2.md"
     }, {
-      "title": "Step 1 - Running the client",
+      "title": "Step 3 - Deploying Whip",
       "text": "step3.md"
+    }, {
+      "title": "Step 4 - Whip-enhanced Communication",
+      "text": "step4.md"
+    }, {
+      "title": "Step 5 - Indexed Contracts",
+      "text": "step5.md"
+    }, {
+      "title": "Step 6 - Fixing the Error",
+      "text": "step6.md"
     }],
     "intro": {
       "text": "intro.md",
